@@ -27,7 +27,7 @@ The primary objective of this project is to develop a food classification system
 - Development Environment: Google Colab
 
 ### Android Development
-- Design Tool: Figma
+- Design Tool: Figma, Adobe Illustrator, Adobe After Effects
 - Programming Language: Kotlin
 - Networking: Retrofit, OkHttp
 
