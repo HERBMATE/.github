@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project We aim to provide an application that focuses specifically on herbal plants, offering a comprehensive and reliable source of information. This application is designed to help users identify various types of herbal plants and understand their health benefits and usage.
+This project aim to provide an application that focuses specifically on herbal plants, offering a comprehensive and reliable source of information. This application is designed to help users identify various types of herbal plants and understand their health benefits and usage.
 
 ![Mockups](https://storage.googleapis.com/herbmate-models/Data-Image/HerbMate.jpg)
 
