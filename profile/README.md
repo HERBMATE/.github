@@ -22,7 +22,7 @@ The primary objective of this project is to develop a food classification system
 
 ### Machine Learning
 - Framework: TensorFlow
-- Architecture: Convolutional Neural Networks (CNN), using a pre-trained MobileNet V2 model
+- Architecture: Convolutional Neural Networks (CNN)
 - Programming Language: Python
 - Development Environment: Google Colab
 
